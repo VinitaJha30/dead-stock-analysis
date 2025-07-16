@@ -21,5 +21,8 @@ This project explores **dead stock (non-moving inventory)** using Python in a Ju
 - Jupyter Notebook
 - Pandas, NumPy
 - Matplotlib, Seaborn
-
+ Let's Connect
+Made by Vinita Jha
+🔗 LinkedIn-https://www.linkedin.com/in/vinita-ashok-jha-bb54281a3/
+📧 vinitajha309@gmail.com
 
